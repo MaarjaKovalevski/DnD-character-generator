@@ -1,0 +1,26 @@
+human, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive
+dwarf, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, light brown, deep tan
+elf, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, bronze, copper, bluish-white
+gnome, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, walnut brown, gold, woody brown,
+half-elf, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, dusky gray, lightly purplish, lightly bluish, whitish-pink, muddy-brown
+halfling, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, very pale, tan
+half-orc, ivory, senna, almond, chestnut, bronze, cacao, coin, fossil, gray, smoke, sage, olive, pickle, crocodile
+tiefling, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, red, light red, brick red, ruddy tan, light purple, purple, deep crimson, light blue, bluish, blue, deep blue, cherry, burgundy, maroon, ruby red, barn red, denim, indigo, rosewood, wine, punch, plum
+satyr, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, light brown, tan
+fairy, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, bluish, blue, green, sapphire, teal, sky, seafoam, sage, emerald
+genasi, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, red, green, blue, gray, cherry, blush, currant, wine, crimson, brick, red barn, rose, ruby, dark red, dark green, dark blue, dark gray, sage, basil, crocodile, teal, denim, indigo, navy, stone, coin, fossil, smoke, iron, shadow
+goliath, shadow, gray, iron, graphite, silver, smoke, fossil, coin, pebble, lead, dove, fog, anchor, ash, rhino, metal gray, shark gray, koala gray
+aasimar, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, emerald, gold, silver, light green, buttermilk, shortbread, sandcastle
+firbolg, gray, iron, graphite, silver, smoke, fossil, coin, pebble, lead, dove, fog, anchor, ash, rhino, metal gray, shark gray, koala gray, fleshy pink
+goblin, yellow, orange, red, green, banana, corn, mustard, honey, fire, gold, ginger, apricot, sandstone,  squash, cider, rose, cherry, blush
+hobgoblin, dark red, red, dark orange, red-orange, red barn, rose, cherry, wine, blood, currant, ruby
+triton, blue, silvery-blue, silver, deep blue, light blue, dark blue, gray, sky, sapphire, arctic
+yuan-ti pureblood, ivory, porcelain, sand, beige, senna, faint green, light green, lime, soft green
+changeling, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive, grayish, light gray
+kalashtar, ivory, porcelain, sand, beige, senna,  olive, grayish, light gray, cloud, pearl silver, silver
+shifter, sand, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, dark brown, muddy brown
+gith, pale yellow, yellow, light yellow, lemon, gold, mustard, dijon, flaxen, butterscotch, pineapple
+centaur, ivory, porcelain, sand, beige, senna, honey, almond, chestnut, bronze, golden, caramel, cacao, olive
+simic hybrid, blue, silvery-blue, silver, deep blue, light blue, dark blue, gray, sky, sapphire, arctic, ivory, porcelain
+vedalken, blue, silvery-blue, silver, deep blue, light blue, dark blue, gray, sky, sapphire, arctic
+verdan, jade-green, green, sage, olive, crocodile, pickle, basil, dark green, light green, seaweed, avocado, pistachio

@@ -1,0 +1,1 @@
+heart, diamond, oval, round, square, rectangle
